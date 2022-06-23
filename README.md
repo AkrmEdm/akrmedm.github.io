@@ -1,1 +1,1 @@
-[akrmedm-dev.github.io](https://akrmedm.github.io)
+[akrmedm.github.io](https://akrmedm.github.io)

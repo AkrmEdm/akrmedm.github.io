@@ -1,6 +1,6 @@
-## Welcome to akrmedm-dev.github.io
+## Welcome to akrmedm.github.io
 
-- 👋 Hello there, I’m @akrmedm-dev
+- 👋 Hello there, I’m @akrmedm
 
 ### Contact
 

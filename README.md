@@ -1,4 +1,4 @@
-![alt text]('assets/logo-150.jpg') 
+![alt text]("/assets/logo-150.jpg") 
 
 
 ## AkrmEdm

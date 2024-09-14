@@ -1,4 +1,4 @@
-![alt text](logo-150.jpg) ## AkrmEdm
+![alt text](logo-150.png) ## AkrmEdm
 
 - 👋 Hello there, I’m @akrmedm
 

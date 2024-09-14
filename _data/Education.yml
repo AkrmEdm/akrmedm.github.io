@@ -2,9 +2,38 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: College Name, Cetification Name
+  - title: Mianz International College, Software Engineering
     description:
-      - coming soon
-      - coming soon
-    grade: "**GPA**: `3.9/4.3`"
-    date: started date - ended date
+      - Elementary Programming in C
+      - Building Next Generation Websites
+      - Effective Communication Skills
+      - Designing and Publishing Web Sites
+      - Database Management
+      - C# Programming
+      - Windows Forms Programming using C#
+      - Advanced Windows Forms Programming using C# 
+    date: Jan. 2021 - Jan. 2022
+  - title: Maldives Polytechnic, Small Business Management
+    description:
+      - E-Commerce
+      - Introduction to Business
+      - Legal and Risk Management
+      - Managing Small Business Operations
+      - Marketing Small Business
+      - Customer Relationships Management
+      - Financial Management
+      - Managing a Small Team
+      - Research International Business Opportunities
+      - Analyze and Present Research Information
+    date: May. 2018 - Dec. 2019
+  - title: Maldives National University, Judicial Administration
+    description:
+      - Computer Concepts and PC Applications
+      - Introduction to Judicial Administration
+      - Dhivehi Bas
+      - Management and Organization
+      - Maldivian Legal System
+      - Office Administration
+      - Publice Finance and Procedures
+      - Court Management and Case Management
+    date: Jan. 2015 - Dec. 2016

@@ -1,9 +1,9 @@
-![alt text](logo-150.png) 
+![alt text](assets/logo-150.png) 
 
 
 ## AkrmEdm
 
-- 👋 Hello there, I’m @akrmedm
+- 👋 Hello there, I’m Akram Adam
 
 ### Contact
 

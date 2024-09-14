@@ -1,10 +1,6 @@
-![alt text](assets/logo-150.png) 
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-
-## AkrmEdm
-
-- 👋 Hello there, I’m Akram Adam
-
-### Contact
-
-- akrmedm@gmail.com
+layout: home
+---

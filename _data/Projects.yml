@@ -6,9 +6,12 @@ contents:
     description: 
       - Design and develop website of Uligamu School
       - "Technology Used: Wordpress"
-    image: "![](#)"
+    image: "![devicon](/assets/icons/wordpress-icon.svg)"
   - title: "Uligamu School Entry App (https://entry.uligamuschool.edu.mv/)"
     description: 
       - Design and develop Entry Management System of Uligamu School
       - "Technology Used: Laravel"
-    image: "![](#)"
+    image: "![devicon](/assets/icons/laravel-original.svg)"
+
+          
+      

@@ -2,17 +2,24 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Mianz International College, Software Engineering
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+    date: January 2021 - January 2022
+  - title: College of Defence and Security Studies (CDSS), Multimedia and Web Designing
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+    date: 18th August 2019 - 25th December 2019
+  - title: Maldives Polytechnic, Small Business Management
+    description:
+    date: 02nd May 2018 - 20th December 2019
+  - title: Maldives National University, Judicial Administration
+    description:
+    date: 09th January 2015 - 01st December 2016
+  - title: Ukulhahu School, A Level
+    description:
+    date: 25th March 2010 - 24th June 2012
+  - title: Focus Education Centre, MS Office Management
+    description:
+    date: 12th November 2009 - 08th December 2009
+  - title: Uligamu School, O Level
+    description:
+    date: 18th December 2006 - 23rd November 2009

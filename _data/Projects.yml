@@ -2,12 +2,12 @@ subject: Projects
 listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "![devicon](/assets/icons/uligamu-school-logo-en.svg) Uligamu School Website ([https://uligamuschool.edu.mv/](https://uligamuschool.edu.mv/))"
+  - title: "![devicon](/assets/icons/uligamu-school-logo-en-64.svg) Uligamu School Website ([https://uligamuschool.edu.mv/](https://uligamuschool.edu.mv/))"
     description: 
       - Design and develop website of Uligamu School
       - "Technology Used: Wordpress"
     image: "![devicon](/assets/icons/wordpress-icon.svg)"
-  - title: "![devicon](/assets/icons/uligamu-school-logo-en.svg) Uligamu School Entry App (https://entry.uligamuschool.edu.mv/)"
+  - title: "![devicon](/assets/icons/uligamu-school-logo-en-64.svg) Uligamu School Entry App (https://entry.uligamuschool.edu.mv/)"
     description: 
       - Design and develop Entry Management System of Uligamu School
       - "Technology Used: Laravel"

@@ -3,30 +3,69 @@ listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
   - title: AutoCAD Basics for Beginners, Infinica Academy
+    image: "![devicon](/assets/icons/autocad-new-logo.svg)"
     date: 06th November 2023 - 11 December 2023
+  
   - title: C# Coding Bootcamp, Ilm Vidhaaraa
+    image: "![devicon](/assets/icons/csharp-original.svg)"
     date: 06th August 2023 - 07th September 2023
+  
   - title: Internal Audit, CSTI
+    image: "![devicon](/assets/icons/.svg)"
     date: 18th June 2023 - 22nd June 2023
+  
   - title: Training in Field Administrations for Civil Servants of Maldives, NCGG
+    image: "![devicon](/assets/icons/.svg)"
     date: 31st October 2022 - 11th November 2022 
+  
   - title: NoCode Web Development using WordPress for Beginners, Javaabu Academy
+    image: "![devicon](/assets/icons/wordpress-icon.svg)"
     date: 10th October 2022 - 18th November 2022
+  
   - title: Photoshop Masterclass Photo Manipulation, Javaabu Academy
+    image: "![devicon](/assets/icons/adobe-photoshop-icon.svg)"
     date: 07th October 2022 - 11th November 2022
+  
   - title: Introduction To Photoshop and Illustrator, Javaabu Academy
+    image: "
+        ![devicon](/assets/icons/adobe-illustrator-icon.svg)
+        ![devicon](/assets/icons/adobe-photoshop-icon.svg)
+      "
     date: 23rd July 2022 - 26th August 2022
+  
   - title: Social Media Marketing Masterclass, Javaabu Academy
+    image: "
+        ![devicon](/assets/icons/adobe-illustrator-icon.svg)
+        ![devicon](/assets/icons/adobe-photoshop-icon.svg)
+        ![devicon](/assets/icons/adobe-premiere-pro-icon.svg)
+        ![devicon](/assets/icons/adobe-after-effects-icon.svg)
+        ![devicon](/assets/icons/.svg)
+      "
     date: 10th June 2022 - 17th July 2022
+  
   - title: Introduction to Motion Design and Animation, Javaabu Academy
+    image: "![devicon](/assets/icons/adobe-after-effects-icon.svg)"
     date: 13th May 2022 - 16th June 2022
+  
   - title: JavaScript Dhaskuraanantha?, Javaabu Academy
+    image: "
+        ![devicon](/assets/icons/javascript-programming-language-icon.svg)
+        ![devicon](/assets/icons/node-js-icon.svg)
+      "
     date: 12th March 2022 - 10th June 2022
+  
   - title: Windows Server Basic, Twin Tutors
+    image: "![devicon](/assets/icons/.svg)"
     date: 19th February 2022 - 21st April 2022
+  
   - title: Laravel for Beginners, Javaabu Academy
+    image: "![devicon](/assets/icons/laravel-original.svg)"
     date: 19th January 2022 - 07th May 2022
+  
   - title: NoCode Android Application Development & Monetization, Javaabu Academy
+    image: "![devicon](/assets/icons/.svg)"
     date: 08th January 2022 - 28th February 2022
+  
   - title: Dynamic CMS Development with PHP & MySQL, Javaabu Academy
+    image: "![devicon](/assets/icons/.svg)"
     date: 12th October 2021 - 08th December 2021

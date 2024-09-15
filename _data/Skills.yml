@@ -3,7 +3,7 @@ listing-order: 3
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
-    description: "
+    description: 
       icon: '/assets/icons/c-original.svg'
       icon: '/assets/icons/csharp-original.svg'
       icon: '/assets/icons/html-icon.svg'
@@ -12,18 +12,18 @@ contents:
       icon: '/assets/icons/node-js-icon.svg'
       icon: '/assets/icons/php-programming-language-icon.svg'
       icon: '/assets/icons/mysql-icon.svg'
-      "
+      
 
   - title: Frameworks
-    description: "
+    description: 
       icon: '/assets/icons/bootstrap-5-logo-icon.svg'
       icon: '/assets/icons/tailwindcss-original.svg'
       icon: '/assets/icons/wordpress-icon.svg'
       icon: '/assets/icons/laravel-original.svg'
-      "
+      
 
   - title: Graphics Design & Video Editing
-    description: "
+    description: 
       icon: '/assets/icons/adobe-illustrator-icon.svg'
       icon: '/assets/icons/adobe-photoshop-icon.svg'
       icon: '/assets/icons/adobe-audition-icon.svg'
@@ -32,10 +32,10 @@ contents:
       icon: '/assets/icons/coreldraw-logo.svg'
       icon: '/assets/icons/obs-icon.svg'
       icon: '/assets/icons/sketchup-vector-logo.svg'
-      "
+      
   
   - title: Office Packages and Workspaces
-    description: "
+    description: 
       icon: '/assets/icons/microsoft-word-icon.svg'
       icon: '/assets/icons/microsoft-excel-icon.svg'
       icon: '/assets/icons/microsoft-powerpoint-icon.svg'
@@ -49,4 +49,4 @@ contents:
       icon: '/assets/icons/microsoft-teams-icon.svg'
       icon: '/assets/icons/google-meet-icon.svg'
       icon: '/assets/icons/zoom-call-icon.svg'
-      "
+      

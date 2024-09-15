@@ -17,8 +17,8 @@ contents:
     description:
       icon: "/resources/icons/bootstrap-5-logo-icon.svg"
       icon: "/resources/icons/tailwindcss-original.svg"
-      icon: "'/resources/icons/wordpress-icon.svg')
-      icon: "'/resources/icons/laravel-original.svg')
+      icon: "/resources/icons/wordpress-icon.svg"
+      icon: "/resources/icons/laravel-original.svg"
 
   - title: Graphics Design & Video Editing
     description:

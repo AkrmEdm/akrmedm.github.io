@@ -11,10 +11,18 @@ contents:
       ![devicon](/assets/icons/javascript-programming-language-icon.svg)
       ![devicon](/assets/icons/node-js-icon.svg)
       ![devicon](/assets/icons/php-programming-language-icon.svg)
+    "
+  - title: Databases
+    description: "
+      ![devicon](/assets/icons/strapi-logo.svg)
+      ![devicon](/assets/icons/airtable-logo.svg)
+      ![devicon](/assets/icons/google-firebase-icon.svg)
       ![devicon](/assets/icons/mysql-icon.svg)
     "
   - title: Frameworks
     description: "
+      ![devicon](/assets/icons/webpack-icon.svg)
+      ![devicon](/assets/icons/babel.svg)
       ![devicon](/assets/icons/bootstrap-5-logo-icon.svg)
       ![devicon](/assets/icons/tailwindcss-original.svg)
       ![devicon](/assets/icons/wordpress-icon.svg)

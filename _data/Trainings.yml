@@ -62,7 +62,10 @@ contents:
     date: 12th March 2022 - 10th June 2022
   
   - title: Windows Server Basic, Twin Tutors
-    image: "![devicon](/assets/icons/windows-logo.svg)"
+    image: "
+        ![devicon](/assets/icons/windows-logo.svg)
+        ![devicon](/assets/icons/ethernet-port-icon.svg)
+      "
     date: 19th February 2022 - 21st April 2022
   
   - title: Laravel for Beginners, Javaabu Academy

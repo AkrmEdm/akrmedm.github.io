@@ -8,15 +8,25 @@ contents:
       - Design and develop website of Uligamu School
       - "Technology Used: Wordpress"
     image: "![devicon](/assets/icons/wordpress-icon.svg)"
+
   - title: "Uligamu School Entry App (https://entry.uligamuschool.edu.mv/)"
-    image: "![devicon](/assets/icons/uligamu-school-logo-en-64.svg)"
     description: 
       - Design and develop Entry Management System of Uligamu School
       - "Technology Used: Laravel"
     image: "![devicon](/assets/icons/laravel-original.svg)"
+
   - title: "Uligamu School LAN"
-    image: "![devicon](/assets/icons/uligamu-school-logo-en-64.svg)"
     description: 
       - Internal LAN of Uligamu School
       - "Technology Used: Windows Server"
-    image: "![devicon](/assets/icons/windows-logo.svg)"
+    image: "
+        ![devicon](/assets/icons/windows-logo.svg)
+        ![devicon](/assets/icons/ethernet-port-icon.svg)
+      "
+  - title: "HA. Uligamu Magistrate Court LAN"
+    description: 
+      - Internal LAN of Uligamu School
+      - "Technology Used: LAN"
+    image: "
+        ![devicon](/assets/icons/ethernet-port-icon.svg)
+      "

@@ -30,6 +30,12 @@ contents:
       ![devicon](/assets/icons/wordpress-icon.svg)
       ![devicon](/assets/icons/laravel-original.svg)
     "
+  - title: Platforms
+    description: "
+      ![devicon](/assets/icons/windows-logo.svg)
+      ![devicon](/assets/icons/ubuntu-color-icon.svg)
+      ![devicon](/assets/icons/linux-icon.svg)
+    "
   - title: Graphics Design & Video Editing
     description: "
       ![devicon](/assets/icons/adobe-illustrator-icon.svg)
@@ -57,4 +63,8 @@ contents:
       ![devicon](/assets/icons/microsoft-teams-icon.svg)
       ![devicon](/assets/icons/google-meet-icon.svg)
       ![devicon](/assets/icons/zoom-call-icon.svg)
+    "
+  - title: Other
+    description: "
+      ![devicon](/assets/icons/ethernet-port-icon.svg)
     "

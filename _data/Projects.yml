@@ -2,16 +2,21 @@ subject: Projects
 listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "![devicon](/assets/icons/uligamu-school-logo-en-64.svg) Uligamu School Website ([https://uligamuschool.edu.mv/](https://uligamuschool.edu.mv/))"
+  - title: "Uligamu School Website ([https://uligamuschool.edu.mv/](https://uligamuschool.edu.mv/))"
+    image: "![devicon](/assets/icons/uligamu-school-logo-en-64.svg)"
     description: 
       - Design and develop website of Uligamu School
       - "Technology Used: Wordpress"
     image: "![devicon](/assets/icons/wordpress-icon.svg)"
-  - title: "![devicon](/assets/icons/uligamu-school-logo-en-64.svg) Uligamu School Entry App (https://entry.uligamuschool.edu.mv/)"
+  - title: "Uligamu School Entry App (https://entry.uligamuschool.edu.mv/)"
+    image: "![devicon](/assets/icons/uligamu-school-logo-en-64.svg)"
     description: 
       - Design and develop Entry Management System of Uligamu School
       - "Technology Used: Laravel"
     image: "![devicon](/assets/icons/laravel-original.svg)"
-
-          
-      
+  - title: "Uligamu School LAN"
+    image: "![devicon](/assets/icons/uligamu-school-logo-en-64.svg)"
+    description: 
+      - Internal LAN of Uligamu School
+      - "Technology Used: Windows Server"
+    image: "![devicon](/assets/icons/windows-logo.svg)"

@@ -1,52 +1,19 @@
 subject: Skills
-listing-order: 3
+listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
-    description: 
-    image: "![](/assets/icons/c-original.svg)"
-    image: "![](/assets/icons/csharp-original.svg)"
-    image: "![](/assets/icons/html-icon.svg)"
-    image: "![](/assets/icons/css3-seeklogo.svg)"
-    image: "![](/assets/icons/javascript-programming-language-icon.svg)"
-    image: "![](/assets/icons/node-js-icon.svg)"
-    image: "![](/assets/icons/php-programming-language-icon.svg)"
-    image: "![](/assets/icons/mysql-icon.svg)"
-      
-
+    description: "
+      ![devicon](/assets/icons/c-original.svg)
+      ![devicon](/assets/icons/csharp-original.svg)
+      ![devicon](/assets/icons/html-icon.svg)
+      ![devicon](/assets/icons/css3-seeklogo.svg)
+      ![devicon](/assets/icons/javascript-programming-language-icon.svg)
+      ![devicon](/assets/icons/node-js-icon.svg)
+      ![devicon](/assets/icons/php-programming-language-icon.svg)
+      ![devicon](/assets/icons/mysql-icon.svg)
+    "
   - title: Frameworks
-    description: 
-    image: "![](/assets/icons/bootstrap-5-logo-icon.svg)"
-    image: "![](/assets/icons/tailwindcss-original.svg)"
-    image: "![](/assets/icons/wordpress-icon.svg)"
-    image: "![](/assets/icons/laravel-original.svg)"
-      
+    description: "
 
-  - title: Graphics Design & Video Editing
-    description: 
-    image: "![](/assets/icons/adobe-illustrator-icon.svg)"
-    image: "![](/assets/icons/adobe-photoshop-icon.svg)"
-    image: "![](/assets/icons/adobe-audition-icon.svg)"
-    image: "![](/assets/icons/adobe-premiere-pro-icon.svg)"
-    image: "![](/assets/icons/adobe-after-effects-icon.svg)"
-    image: "![](/assets/icons/coreldraw-logo.svg)"
-    image: "![](/assets/icons/obs-icon.svg)"
-    image: "![](/assets/icons/sketchup-vector-logo.svg)"
-      
-  
-  - title: Office Packages and Workspaces
-    description: 
-    image: "![](/assets/icons/microsoft-word-icon.svg)"
-    image: "![](/assets/icons/microsoft-excel-icon.svg)"
-    image: "![](/assets/icons/microsoft-powerpoint-icon.svg)"
-    image: "![](/assets/icons/microsoft-forms-icon.svg)"
-    image: "![](/assets/icons/onedrive-color-icon.svg)"
-    image: "![](/assets/icons/google-docs-icon.svg)"
-    image: "![](/assets/icons/google-sheets-icon.svg)"
-    image: "![](/assets/icons/google-slides-icon.svg)"
-    image: "![](/assets/icons/google-forms-icon.svg)"
-    image: "![](/assets/icons/google-drive-color-icon.svg)"
-    image: "![](/assets/icons/microsoft-teams-icon.svg)"
-    image: "![](/assets/icons/google-meet-icon.svg)"
-    image: "![](/assets/icons/zoom-call-icon.svg)"
-      
+    "

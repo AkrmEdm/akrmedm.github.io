@@ -4,49 +4,49 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: 
-      icon: '/assets/icons/c-original.svg'
-      icon: '/assets/icons/csharp-original.svg'
-      icon: '/assets/icons/html-icon.svg'
-      icon: '/assets/icons/css3-seeklogo.svg'
-      icon: '/assets/icons/javascript-programming-language-icon.svg'
-      icon: '/assets/icons/node-js-icon.svg'
-      icon: '/assets/icons/php-programming-language-icon.svg'
-      icon: '/assets/icons/mysql-icon.svg'
+      icon: "/assets/icons/c-original.svg"
+      icon: "/assets/icons/csharp-original.svg"
+      icon: "/assets/icons/html-icon.svg"
+      icon: "/assets/icons/css3-seeklogo.svg"
+      icon: "/assets/icons/javascript-programming-language-icon.svg"
+      icon: "/assets/icons/node-js-icon.svg"
+      icon: "/assets/icons/php-programming-language-icon.svg"
+      icon: "/assets/icons/mysql-icon.svg"
       
 
   - title: Frameworks
     description: 
-      icon: '/assets/icons/bootstrap-5-logo-icon.svg'
-      icon: '/assets/icons/tailwindcss-original.svg'
-      icon: '/assets/icons/wordpress-icon.svg'
-      icon: '/assets/icons/laravel-original.svg'
+      icon: "/assets/icons/bootstrap-5-logo-icon.svg"
+      icon: "/assets/icons/tailwindcss-original.svg"
+      icon: "/assets/icons/wordpress-icon.svg"
+      icon: "/assets/icons/laravel-original.svg"
       
 
   - title: Graphics Design & Video Editing
     description: 
-      icon: '/assets/icons/adobe-illustrator-icon.svg'
-      icon: '/assets/icons/adobe-photoshop-icon.svg'
-      icon: '/assets/icons/adobe-audition-icon.svg'
-      icon: '/assets/icons/adobe-premiere-pro-icon.svg'
-      icon: '/assets/icons/adobe-after-effects-icon.svg'
-      icon: '/assets/icons/coreldraw-logo.svg'
-      icon: '/assets/icons/obs-icon.svg'
-      icon: '/assets/icons/sketchup-vector-logo.svg'
+      icon: "/assets/icons/adobe-illustrator-icon.svg"
+      icon: "/assets/icons/adobe-photoshop-icon.svg"
+      icon: "/assets/icons/adobe-audition-icon.svg"
+      icon: "/assets/icons/adobe-premiere-pro-icon.svg"
+      icon: "/assets/icons/adobe-after-effects-icon.svg"
+      icon: "/assets/icons/coreldraw-logo.svg"
+      icon: "/assets/icons/obs-icon.svg"
+      icon: "/assets/icons/sketchup-vector-logo.svg"
       
   
   - title: Office Packages and Workspaces
     description: 
-      icon: '/assets/icons/microsoft-word-icon.svg'
-      icon: '/assets/icons/microsoft-excel-icon.svg'
-      icon: '/assets/icons/microsoft-powerpoint-icon.svg'
-      icon: '/assets/icons/microsoft-forms-icon.svg'
-      icon: '/assets/icons/onedrive-color-icon.svg'
-      icon: '/assets/icons/google-docs-icon.svg'
-      icon: '/assets/icons/google-sheets-icon.svg'
-      icon: '/assets/icons/google-slides-icon.svg'
-      icon: '/assets/icons/google-forms-icon.svg'
-      icon: '/assets/icons/google-drive-color-icon.svg'
-      icon: '/assets/icons/microsoft-teams-icon.svg'
-      icon: '/assets/icons/google-meet-icon.svg'
-      icon: '/assets/icons/zoom-call-icon.svg'
+      icon: "/assets/icons/microsoft-word-icon.svg"
+      icon: "/assets/icons/microsoft-excel-icon.svg"
+      icon: "/assets/icons/microsoft-powerpoint-icon.svg"
+      icon: "/assets/icons/microsoft-forms-icon.svg"
+      icon: "/assets/icons/onedrive-color-icon.svg"
+      icon: "/assets/icons/google-docs-icon.svg"
+      icon: "/assets/icons/google-sheets-icon.svg"
+      icon: "/assets/icons/google-slides-icon.svg"
+      icon: "/assets/icons/google-forms-icon.svg"
+      icon: "/assets/icons/google-drive-color-icon.svg"
+      icon: "/assets/icons/microsoft-teams-icon.svg"
+      icon: "/assets/icons/google-meet-icon.svg"
+      icon: "/assets/icons/zoom-call-icon.svg"
       

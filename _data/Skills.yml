@@ -1,23 +1,50 @@
 subject: Skills
-listing-order: 5
+listing-order: 3
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)
+      ![icon](/resources/icons/c-original.svg)
+      ![icon](/resources/icons/csharp-original.svg)
+      ![icon](/resources/icons/html-icon.svg)
+      ![icon](/resources/icons/css3-seeklogo.svg)
+      ![icon](/resources/icons/javascript-programming-language-icon.svg)
+      ![icon](/resources/icons/node-js-icon.svg)
+      ![icon](/resources/icons/php-programming-language-icon.svg)
+      ![icon](/resources/icons/mysql-icon.svg)
     "
   - title: Frameworks
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg)
+      ![icon](/resources/icons/bootstrap-5-logo-icon.svg)
+      ![icon](/resources/icons/tailwindcss-original.svg)
+      ![icon]('/resources/icons/wordpress-icon.svg')
+      ![icon]('/resources/icons/laravel-original.svg')
     "
   - title: Graphics Design & Video Editing
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg)
+      ![icon](/resources/icons/adobe-illustrator-icon.svg)
+      ![icon](/resources/icons/adobe-photoshop-icon.svg)
+      ![icon](/resources/icons/adobe-audition-icon.svg)
+      ![icon](/resources/icons/adobe-premiere-pro-icon.svg)
+      ![icon](/resources/icons/adobe-after-effects-icon.svg)
+      ![icon](/resources/icons/coreldraw-logo.svg)
+      ![icon](/resources/icons/obs-icon.svg)
+      ![icon](/resources/icons/sketchup-vector-logo.svg)
+    "
+  - title: Office Packages and Workspaces
+    description: "
+      ![icon](/resources/icons/microsoft-word-icon.svg)
+      ![icon](/resources/icons/microsoft-excel-icon.svg)
+      ![icon](/resources/icons/microsoft-powerpoint-icon.svg)
+      ![icon](/resources/icons/microsoft-forms-icon.svg)
+      ![icon](/resources/icons/onedrive-color-icon.svg)
+      ![icon](/resources/icons/google-docs-icon.svg)
+      ![icon](/resources/icons/google-sheets-icon.svg)
+      ![icon](/resources/icons/google-slides-icon.svg)
+      ![icon](/resources/icons/google-forms-icon.svg)
+      ![icon](/resources/icons/google-drive-color-icon.svg)
+      ![icon](/resources/icons/microsoft-teams-icon.svg)
+      ![icon](/resources/icons/google-meet-icon.svg)
+      ![icon](/resources/icons/zoom-call-icon.svg)
+
     "

@@ -3,57 +3,16 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Mianz International College, Software Engineering
-    description:
-      - Elementary Programming in C
-      - Building Next Generation Websites
-      - Effective Communication Skills
-      - Designing and Publishing Web Sites
-      - Database Management
-      - C# Programming
-      - Windows Forms Programming using C#
-      - Advanced Windows Forms Programming using C# 
-    date: Jan. 2021 - Jan. 2022
+    date: January 2021 – January 2022
+  - title: College of Defence and Security Studies (CDSS), Multimedia and Web Designing
+    date: 18th August 2019 – 25th December 2019
   - title: Maldives Polytechnic, Small Business Management
-    description:
-      - E-Commerce
-      - Introduction to Business
-      - Legal and Risk Management
-      - Managing Small Business Operations
-      - Marketing Small Business
-      - Customer Relationships Management
-      - Financial Management
-      - Managing a Small Team
-      - Research International Business Opportunities
-      - Analyze and Present Research Information
-    date: May. 2018 - Dec. 2019
+    date: 02nd May 2018 – 20th December 2019
   - title: Maldives National University, Judicial Administration
-    description:
-      - Computer Concepts and PC Applications
-      - Introduction to Judicial Administration
-      - Dhivehi Bas
-      - Management and Organization
-      - Maldivian Legal System
-      - Office Administration
-      - Publice Finance and Procedures
-      - Court Management and Case Management
-    date: Jan. 2015 - Dec. 2016
+    date: 09th January 2015 – 01st December 2016
   - title: Ukulhahu School, A Level
-    description:
-      - Accounting
-      - Business Studies
-      - Mathematics
-      - Islamic Studies
-      - Dhivehi Bas
-    date: Mar. 2010 - Jun. 2012
+    date: 25th March 2010 – 24th June 2012
+  - title: Focus Education Centre, MS Office Management
+    date: 12th November 2009 – 08th December 2009
   - title: Uligamu School, O Level
-    description:
-      - English as a Second Language
-      - Mathematics
-      - Islamic Studies
-      - Dhivehi Bas
-      - Commerce
-      - Economics
-      - Principles of Accounts
-      - Biology
-      - Mathematics
-    date: Dec. 2006 - Nov. 2009
+    date: 18th December 2006 – 23rd November 2009

@@ -3,4 +3,6 @@ listing-order: 7
 icon: "/assets/img/globe.svg"
 contents:
   - title: "Dhivehi *Native*: <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●●○</span>"
+    image: "![devicon](/assets/icons/flag-of-maldives-round.svg)"
   - title: "English: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●○○○</span>"
+    image: "![devicon](/assets/icons/flag-of-uk-round.svg)"

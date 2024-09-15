@@ -3,16 +3,23 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Mianz International College, Software Engineering
+    description:
     date: January 2021 - January 2022
   - title: College of Defence and Security Studies (CDSS), Multimedia and Web Designing
+    description:
     date: 18 August 2019 - 25 December 2019
   - title: Maldives Polytechnic, Small Business Management
+    description:
     date: 02 May 2018 - 20 December 2019
   - title: Maldives National University, Judicial Administration
+    description:
     date: 09 January 2015 - 01st December 2016
   - title: Ukulhahu School, A Level
+    description:
     date: 25 March 2010 - 24 June 2012
   - title: Focus Education Centre, MS Office Management
+    description:
     date: 12 November 2009 - 08 December 2009
   - title: Uligamu School, O Level
+    description:
     date: 18 December 2006 - 23rd November 2009
